@@ -1,0 +1,7 @@
+{
+  "name": "Flitter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
